@@ -45,7 +45,7 @@ const Navbar = () => {
         className="text-2xl font-bold flex items-center space-x-2"
       >
         <img
-          src="src/assets/nibs_logo_white.png"
+          src="src\assets\nibs_logo_white.png"
           alt="NIBS University Doctoral Conference Logo"
           className="h-10 w-auto"
         />
